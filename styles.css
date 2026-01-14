@@ -93,13 +93,13 @@ header {
     justify-content: space-between;
     position: relative;
     padding-top: 80px;
-    gap: 2rem;
+    gap: 1rem;
     overflow: hidden; /* Evita scroll horizontal si la imagen se mueve */
 }
 
 .hero-content {
     z-index: 2;
-    max-width: 70vw;
+    max-width: 60vw;
     opacity: 0; /* Inicio invisible */
     animation: heroFadeIn 2s ease-out forwards;
 }
