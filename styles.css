@@ -99,7 +99,7 @@ header {
 
 .hero-content {
     z-index: 2;
-    max-width: 60vw;
+    max-width: 65vw;
     opacity: 0; /* Inicio invisible */
     animation: heroFadeIn 2s ease-out forwards;
 }
